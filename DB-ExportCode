@@ -1,0 +1,4 @@
+    1 vi export.sh
+    2  cat export.sh
+    3  chmod 777 export.sh
+    4 /export.sh > output.txt
