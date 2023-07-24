@@ -1,0 +1,10 @@
+    1  dnf install mariadb105 -y
+    2  which mariadb
+    3  mysql --version
+    4  mysql -h database database-2.cmfbwz1oup7y.ap-northeast-1.rds.amazonaws.com -u admin -p
+    5  mysql -h database-2.cmfbwz1oup7y.ap-northeast-1.rds.amazonaws.com -u admin -p < table.txt
+
+
+
+
+ 
